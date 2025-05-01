@@ -68,14 +68,14 @@ Builds Logistic Regression models with L1 (Lasso), L2 (Ridge), and ElasticNet re
 
 # 📁 Suggested Repository Structure
 
-📁 Project_1_EDA_LoanDefault
-📁 Project_2_DecisionTree
-📁 Project_3_ModelEvaluation
-📁 Project_4_FeatureEngineering
-📁 Project_5_LogisticRegression
-📁 Project_6_HousingPriceRegression
-📁 Project_7_HousingVisualization
-📁 Project_8_CustomerClustering
-📁 Project_9_EnsembleComparison
-📁 Project_10_GLM_Regularization
-📄 README.md
+* 📁 Project_1_EDA_LoanDefault
+* 📁 Project_2_DecisionTree
+* 📁 Project_3_ModelEvaluation
+* 📁 Project_4_FeatureEngineering
+* 📁 Project_5_LogisticRegression
+* 📁 Project_6_HousingPriceRegression
+* 📁 Project_7_HousingVisualization
+* 📁 Project_8_CustomerClustering
+* 📁 Project_9_EnsembleComparison
+* 📁 Project_10_GLM_Regularization
+* 📄 README.md
