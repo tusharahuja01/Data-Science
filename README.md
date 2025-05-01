@@ -4,13 +4,13 @@
 
 ### Created By: Tushar Ahuja
 
-Repository Overview:
+# Repository Overview:
 
 This repository contains 10 end-to-end machine learning projects covering classification, regression, feature engineering, clustering, and model evaluation. Using real-world datasets from financial institutions and the California housing market, each project demonstrates a structured data science workflow with model development, evaluation, and interpretation.
 
-📂 Project Overview
+**📂 Project Overview**
 
-🔹 Project 1 – Exploratory Data Analysis (EDA) for Loan Default
+***🔹 Project 1 – Exploratory Data Analysis (EDA) for Loan Default***
 
 Performs EDA on a financial institution's loan dataset to explore relationships between features and loan defaults. Lays the foundation for further modeling and decision-making.
 
