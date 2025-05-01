@@ -1,8 +1,11 @@
 # Data-Science
 
 🧠 Loan Default Risk Prediction & California Housing Analysis Projects
+
 Created By: Tushar Ahuja
+
 Repository Overview:
+
 This repository contains 10 end-to-end machine learning projects covering classification, regression, feature engineering, clustering, and model evaluation. Using real-world datasets from financial institutions and the California housing market, each project demonstrates a structured data science workflow with model development, evaluation, and interpretation.
 
 📂 Project Overview
